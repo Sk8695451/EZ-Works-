@@ -1,0 +1,11 @@
+.Container{
+    border: solid green;
+ 
+}
+.Leftside{
+    width:32%;
+	height:700px;
+    margin:0px;
+	float:left;
+	background:#333;
+} 
